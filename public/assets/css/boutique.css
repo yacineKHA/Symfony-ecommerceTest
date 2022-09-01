@@ -1,0 +1,12 @@
+.navbar-menu a{
+    color: white;
+}
+
+.footer-custom{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgrey;
+    padding-top: 30px;
+}
